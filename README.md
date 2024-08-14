@@ -9,11 +9,11 @@ This repository contains the code for the Data Extraction and sentiment analysis
 - Save the results in an Excel file.
 
 ## Input Files
-Input.xlsx: Contains the URL IDs and URLs for the articles to be analyzed.
-StopWords_Names.txt, StopWords_Geographic.txt, StopWords_GenericLong.txt: Files containing stop words to be excluded from analysis.
-positive-words.txt: List of words considered positive.
-negative-words.txt: List of words considered negative.
-Article text files named according to the URL ID (e.g., 123.txt).
+- **Input.xlsx:** Contains the URL IDs and URLs for the articles to be analyzed.
+- **StopWords_Names.txt, StopWords_Geographic.txt, StopWords_GenericLong.txt:** Files containing stop words to be excluded from analysis.
+- **positive-words.txt:** List of words considered positive.
+- **negative-words.txt:** List of words considered negative.
+- Article text files named according to the URL ID (e.g., 123.txt).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
